@@ -4,18 +4,20 @@
     "url": "https://www.soundhound.com",
     "icon": "https://favicons.githubusercontent.com/www.soundhound.com",
     "slug": "sound-hound",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 289,
-    "timeWeek": 265,
-    "timeMonth": 315,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 309,
+    "timeDay": 210,
+    "timeWeek": 248,
+    "timeMonth": 309,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "SH Slack",
