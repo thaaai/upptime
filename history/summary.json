@@ -47,7 +47,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 234,
     "timeMonth": 283,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Test Broken Site",
