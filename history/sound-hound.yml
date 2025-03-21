@@ -1,7 +1,7 @@
 url: https://www.soundhound.com
-status: up
-code: 200
-responseTime: 373
-lastUpdated: 2025-03-20T23:08:54.969Z
+status: down
+code: 503
+responseTime: 386
+lastUpdated: 2025-03-21T13:12:24.899Z
 startTime: 2022-05-18T18:13:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
