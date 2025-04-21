@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.soundhound.com.ico",
     "slug": "sound-hound",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 411,
-    "timeDay": 659,
-    "timeWeek": 559,
-    "timeMonth": 525,
+    "timeDay": 426,
+    "timeWeek": 545,
+    "timeMonth": 527,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2025-03-21": 142
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 307,
-    "timeWeek": 245,
-    "timeMonth": 304,
+    "timeDay": 151,
+    "timeWeek": 233,
+    "timeMonth": 302,
     "timeYear": 243,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 96,
-    "timeWeek": 320,
-    "timeMonth": 304,
-    "timeYear": 305,
+    "timeDay": 433,
+    "timeWeek": 342,
+    "timeMonth": 303,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2024-09-01": 21
     }
