@@ -27,9 +27,9 @@
     "url": "https://soundhound.slack.com",
     "icon": "https://icons.duckduckgo.com/ip3/soundhound.slack.com.ico",
     "slug": "sh-slack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 226,
     "timeMonth": 281,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-07": 0
+    }
   },
   {
     "name": "Hacker News",
