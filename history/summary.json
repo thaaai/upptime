@@ -27,19 +27,19 @@
     "url": "https://soundhound.slack.com",
     "icon": "https://icons.duckduckgo.com/ip3/soundhound.slack.com.ico",
     "slug": "sh-slack",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 417,
-    "timeWeek": 226,
-    "timeMonth": 281,
+    "timeDay": 297,
+    "timeWeek": 220,
+    "timeMonth": 278,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2026-06-07": 0
+      "2026-06-07": 74
     }
   },
   {
