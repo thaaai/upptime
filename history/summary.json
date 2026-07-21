@@ -4,23 +4,23 @@
     "url": "https://www.soundhound.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.soundhound.com.ico",
     "slug": "sound-hound",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.93%",
     "time": 497,
-    "timeDay": 2170,
-    "timeWeek": 958,
-    "timeMonth": 537,
+    "timeDay": 1632,
+    "timeWeek": 908,
+    "timeMonth": 538,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2025-08-18": 20,
       "2025-09-25": 21,
       "2025-11-18": 160,
       "2026-04-09": 103,
-      "2026-07-21": 0
+      "2026-07-21": 58
     }
   },
   {
