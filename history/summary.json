@@ -12,11 +12,10 @@
     "uptimeYear": "99.93%",
     "time": 488,
     "timeDay": 740,
-    "timeWeek": 438,
-    "timeMonth": 527,
+    "timeWeek": 434,
+    "timeMonth": 533,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2025-08-18": 20,
       "2025-09-25": 21,
       "2025-11-18": 160,
       "2026-04-09": 103,
@@ -30,14 +29,14 @@
     "slug": "sh-slack",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "82.31%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "77.00%",
+    "uptimeWeek": "92.64%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.83%",
     "time": 275,
     "timeDay": 328,
-    "timeWeek": 339,
-    "timeMonth": 316,
+    "timeWeek": 337,
+    "timeMonth": 315,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2026-06-07": 74,
@@ -46,7 +45,8 @@
       "2026-08-14": 139,
       "2026-08-15": 74,
       "2026-08-16": 96,
-      "2026-08-17": 254
+      "2026-08-17": 297,
+      "2026-08-18": 34
     }
   },
   {
@@ -62,8 +62,8 @@
     "uptimeYear": "99.99%",
     "time": 304,
     "timeDay": 330,
-    "timeWeek": 258,
-    "timeMonth": 240,
+    "timeWeek": 271,
+    "timeMonth": 244,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2025-10-10": 18,
